@@ -1,0 +1,13 @@
+/*Udemy challenge on external css*/
+body{
+background-color: #61B15A;
+}
+h1{
+    font-family:monospace;
+    color: yellow;
+
+}
+p{
+    font-size: x-large;
+color:black;
+}
