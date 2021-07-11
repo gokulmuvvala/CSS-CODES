@@ -1,0 +1,19 @@
+/*kumar.css*/
+/* Multiple pseudo elements*/
+h1::after{
+    content: url("heart\ gif.gif");
+}
+
+h1::before{
+    content: url("heart\ gif.gif");
+}
+
+p::first-letter
+{
+    font-size: xx-large;
+}
+p::first-line
+{
+    color: purple;
+}
+

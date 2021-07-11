@@ -1,0 +1,10 @@
+/*Gokul.css*/
+/* pseudo class selectors are used here*/
+p{
+    font-size:large;
+}
+
+p:hover{
+    color:tomato;
+    font-family: Impact;
+}

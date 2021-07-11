@@ -1,0 +1,6 @@
+/*Attribute selectors*/ 
+a[target]{
+background-color:aqua;
+}
+/*We can do more things with attribute selectors*/
+ 
