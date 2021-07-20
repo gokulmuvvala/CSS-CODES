@@ -1,0 +1,30 @@
+h1{
+    color:white;
+}
+p{
+    color:black;
+}
+
+.top-container{
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    border:solid 10px;
+    background-color:#39A2DB;
+    
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+    background-color: aliceblue;
+}
+.bottem-container{
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    border: solid 10px;
+    margin-left: 500px;
+    background-color: yellow;
+}
