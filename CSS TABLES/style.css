@@ -1,0 +1,35 @@
+
+body{
+    background-color:lightgoldenrodyellow
+}
+h1{
+    color:blue;
+text-align: center;
+font: weight 100%;;
+border-bottom: 2px solid black;
+}
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th{
+    font-family: Arial,Helvetica;    
+}
+table,th,td{
+    border:2px solid green;
+    text-align:left;
+}
+table{
+    width:45%;
+    border-collapse: collapse ;
+}
+th{
+    background-color:salmon;
+    color:whitesmoke;
+}
+th,td{
+    padding:15px;
+}
+th:hover{background-color:springgreen;}
+td:hover{background-color:skyblue;}
+tr:hover{background-color:lightgray;}
+tr:nth-child(even){background-color:wheat;}

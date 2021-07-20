@@ -1,0 +1,36 @@
+
+body{
+    background-color:white;
+}
+h1{
+    color:black;
+text-align: center;
+font: weight 100%;;
+border-bottom: 2px solid black;
+}
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th{
+    font-family: Arial,Helvetica;    
+}
+table,th,td{
+    border:2px solid black;
+    text-align:left;
+}
+table{
+    height:70%;
+    width:45%;
+    border-collapse: collapse ;
+}
+th{
+    background-color:rgb(177, 114, 250);
+    color:whitesmoke;
+}
+th,td{
+    padding:15px;
+}
+th:hover{background-color:springgreen;}
+td:hover{background-color:rgb(205, 235, 135);}
+tr:hover{background-color:rgb(211, 211, 211);}
+tr:nth-child(even){background-color:rgb(245, 179, 179);}
