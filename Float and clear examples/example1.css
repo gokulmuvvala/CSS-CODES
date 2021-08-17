@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header h1{
     font-size:large;  
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -83,4 +84,91 @@ footer{
       background:tomato;
 margin-bottom: 22px; 
 margin-left:370px; 
+=======
+header h1{
+    font-size:large;  
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align:center;
+    background-color:darkorange;
+    width:20%;
+    margin-left: 1186px;
+    position:fixed;
+}
+body{
+    background-color:wheat;
+    margin:3px 3px;
+border: 5px solid Black;
+border-radius: 25px;
+}
+
+p{
+background-color:turquoise;
+padding:15px;
+margin-right:329px;
+margin-left: 290px;
+width:auto;
+font-family:sans-serif,arial;
+line-height: 30px;
+}
+
+
+
+.hulk p{
+background-color:turquoise;
+padding:15px;
+margin-right:330px;
+margin-left: 290px;
+margin-top: 50px;
+width:auto;
+font-family:sans-serif,arial;
+line-height: 30px;
+word-spacing:5px;
+}
+.tony img{
+    float: left;
+    width: 230px;
+    height: 230px;
+    clear: none;
+    left: 12px;
+    right: 0px;
+    bottom: 0px;
+    top: 18px;
+    position: fixed;
+    }  
+
+    .dpool img{
+        float: left;
+    width: 230px;
+    height: 230px;
+    clear: none;
+    left: 12px;
+    right: 0px;
+    bottom: 0px;
+    top: 258px;
+    position: fixed;
+        }  
+
+.hulk img {
+    float: right;
+    width: 280px;
+    height: 230px;
+    clear: none;
+    left: 1208px;
+    right: 0px;
+    bottom: 0px;
+    top: 53px;
+    position: fixed;
+}
+footer{
+    font-family: 'Source Code Pro', monospace;
+      padding: 2px;
+      font-size: 15px;
+      text-align:center;
+      color:white;
+      background: black;
+      background:tomato;
+margin-bottom: 22px; 
+margin-left:370px; 
+>>>>>>> 8074ce9e0ad5adbafde747b040b27699419291ed
 width: 50%;  }
