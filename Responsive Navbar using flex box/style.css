@@ -1,0 +1,53 @@
+
+nav{
+    font-size: 2rem;
+    background-color:#f1f1f1;
+    }
+    
+    nav ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        /*justify-content:space-around;*/
+    
+    }
+    
+    nav ul li{
+        cursor: pointer;
+        padding: 0.5rem;
+        text-decoration: none;
+        flex: auto;
+        text-align: center;
+      
+    }
+    
+    nav ul li:hover{
+     background-color: red;
+     color: white;   
+    }
+
+    
+@media all and (max-width: 400px)
+{
+    nav ul{
+        flex-direction: column;
+    }
+    nav ul li{
+        text-align: center;
+    }
+    
+}
+    .container{
+    font-size:xx-large;
+    text-align: center;
+    }
+    footer{
+        font-family: 'Source Code Pro', monospace;
+        padding: 2px;
+        font-size: 15px;
+        text-align:center;
+        background: #3C415C;
+        color: white;
+        margin-top: 551px;
+    }

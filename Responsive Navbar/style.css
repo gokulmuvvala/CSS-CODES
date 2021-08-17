@@ -1,0 +1,31 @@
+
+nav{
+font-size: 2rem;
+background-color:#f1f1f1;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+nav ul li:hover{
+ background-color: red;
+ color: white;   
+}
+.container{
+font-size:large;
+}
+footer{
+    font-family: 'Source Code Pro', monospace;
+    padding: 2px;
+    font-size: 10px;
+    text-align:center;
+    background: #3C415C;
+}
